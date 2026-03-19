@@ -1,0 +1,13 @@
+<template>
+    <lightning-card title="Placed Students">
+        <template if:true={students.data}>
+            <template for:each={students.data} for:item="student">
+                <div key={student.Id}>
+                    <p><b>Name:</b> {student.Name}</p>
+                    <p><b>Status:</b> {student.Placement_Status__c}</p>
+                    <hr/>
+                </div>
+            </template>
+        </template>
+    </lightning-card>
+</template>
