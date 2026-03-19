@@ -1,3 +1,17 @@
+# Training & Placement Management System
+
+Salesforce-based application to manage students, trainers, and placements.
+
+## Features
+- Student & trainer management
+- Workflow automation
+- Apex & LWC
+
+## Author
+Komal Wankhede
+
+
+
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
