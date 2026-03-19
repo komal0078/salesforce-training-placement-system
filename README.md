@@ -1,15 +1,21 @@
-# Training & Placement Management System
+# Training & Placement Management System (Salesforce)
 
+## Description
 Salesforce-based application to manage students, trainers, and placements.
 
 ## Features
 - Student & trainer management
-- Workflow automation
-- Apex & LWC
+- Flow automation
+- Apex classes and triggers
+- Lightning Web Components (LWC)
+
+## Tech Stack
+- Salesforce
+- Apex
+- LWC
 
 ## Author
 Komal Wankhede
-
 
 
 # Salesforce DX Project: Next Steps
